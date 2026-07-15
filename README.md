@@ -47,3 +47,6 @@
   </a>
 
 </div>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jyoti180393&show_icons=true&theme=tokyonight)
