@@ -47,11 +47,12 @@
   </a>
 
 </div>
+
 ## 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| Dev Tinder | React, Node.js |
-| Portfolio | React |
-| NetflixGPT | React + OpenAI |
-| Swiggy Clone | React + Redux |
+| Project      | Tech           |
+| ------------ | -------------- |
+| Dev Tinder   | React, Node.js |
+| Portfolio    | Angular        |
+| NetflixGPT   | React + OpenAI |
+| Swiggy Clone | React + Redux  |
