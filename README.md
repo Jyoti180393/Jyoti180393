@@ -16,3 +16,19 @@
 - 🚀 Angular (2–16), React, JavaScript & TypeScript
 - 🎯 Passionate about UI Performance
 - ⚡ Fun fact Coding is fun!
+
+## 🚀 Tech Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge)
+
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge)
