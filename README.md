@@ -19,6 +19,7 @@
 
 ## 🚀 Tech Stack
 
+<div align="left" dir="auto">
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
@@ -32,3 +33,13 @@
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge)
 
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge)
+
+</div>
+
+## 🌐 Connect With Me
+
+<a href="https://linkedin.com/in/jyotipokharia034197119" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%; height: auto; max-height: 40px;; aspect-ratio: 52 / 40; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
+  </a>
+
+</div>
