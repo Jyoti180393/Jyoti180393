@@ -47,6 +47,11 @@
   </a>
 
 </div>
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Jyoti180393&show_icons=true&theme=tokyonight)
+| Project | Tech |
+|---------|------|
+| Dev Tinder | React, Node.js |
+| Portfolio | React |
+| NetflixGPT | React + OpenAI |
+| Swiggy Clone | React + Redux |
