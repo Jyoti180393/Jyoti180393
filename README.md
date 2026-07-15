@@ -20,6 +20,9 @@
 ## 🚀 Tech Stack
 
 <div align="left" dir="auto">
+
+## 🚀 Tech Stack
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
